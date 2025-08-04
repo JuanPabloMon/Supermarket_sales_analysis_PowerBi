@@ -23,7 +23,7 @@ This project was built to extract actionable insights for business strategy and 
 
 ## 📄 Files
 
-- [Download Power BI file](Proyecto_3_BI(2).pbix) → Power BI dashboard file
+- [Download Power BI File](Proyecto%203%20BI%20(2).pbix) → Power BI dashboard file
 - [Download PDF Summary](Supermarket_Sales_Dashboard_Summary.pdf) → Executive summary (EN)
 
 ## 🔍 Key Insights
